@@ -39,12 +39,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
   - title: linkedin
     url: https://www.linkedin.com/in/cavinabeltran/
   - title: github
