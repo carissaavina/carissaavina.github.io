@@ -45,7 +45,7 @@ social:
     url: https://carissaavina.github.io/
 
 # Postal address (add as many lines as necessary)
-address: "Los Angeles, CA"
+address:
   - line:
   - line: 
 
