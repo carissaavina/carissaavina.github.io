@@ -4,7 +4,7 @@ email: carissaavina@gmail.com
 url: https://github.com/carissaavina/carissaavina.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Data Scientist | Data Analyst "
+skills: "Data Scientist | Data Analyst"
 meta_author: Avina-Beltran Carissa
 
 # Google webmaster tools
@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: A5CA7E #80B3FF
   primary-rgb: "165,202,126" #"128,179,255"
-  secondary: FD6E8A #FD6E8A
+  secondary: A5CA7E #FD6E8A
   secondary-dark: FD6E8A #A2122F
 
 # Footer settings
@@ -35,7 +35,7 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
+# credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address: Los Angeles, CA
   - line: 
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
