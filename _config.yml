@@ -4,7 +4,7 @@ email: carissaavina@gmail.com
 url: https://github.com/carissaavina/carissaavina.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Data Scientist | Data Analyst | LA "
+skills: "Data Scientist | Data Analyst | Los Angeles area "
 meta_author: Avina-Beltran Carissa
 
 # Google webmaster tools
@@ -27,7 +27,7 @@ disqus_shortname: myshortname
 color:
   primary: A5CA7E #80B3FF
   primary-rgb: "165,202,126" #"128,179,255"
-  secondary: 709845 #FD6E8A
+  secondary: A5CA7E #FD6E8A
   secondary-dark: 709845 #A2122F
 
 # Footer settings
